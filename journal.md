@@ -39,3 +39,32 @@ This week I was able to complete some UI diagrams with Figma. Then I was able to
 - [ ] Attend Monday's meeting and decide next steps for the project. I will likely start to connect backend functions to the UI to allow the basic functionality of the app to work.
 
 ---
+
+## Entry: 11/9/2025 - 11/14/2025
+
+### Time Spent
+- **Total:** 5 hours
+
+### Tasks Attempted
+1. Integrate Habit class with UI
+2. Minor refactoring and commenting of main.dart
+
+### Problems Encountered
+- **Problem 1:** Learning what is in the Habit and Log classes and how they work.
+  - *Attempted solution:* Read the code and ask Josh Garbi and AI any other questions
+  - *Outcome:* Resolved
+- **Problem 2:** Flutter is still relatively new to me and I need to learn its syntax a bit more
+  - *Attempted solution:* Continue coding and using Copilot as needed to provide understanding and aid development.
+  - *Outcome:* Resolved
+
+### Tasks Completed
+- [x] Basic Habit class integration with UI
+- [x] Minor refactoring and commenting of main.dart
+
+### Notes & Reflections
+This week I started integrating the front end and back end code. This is a big step in our project, and this was a good week to begin work on it. 
+
+### Next Steps
+- [ ] Attend Monday's meeting and decide next steps for the project. I will likely do a lot of refactoring of code in main.dart due to changes in the back end. I will also keep building new features into the UI.
+
+---
