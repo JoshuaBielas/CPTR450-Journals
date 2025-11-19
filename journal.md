@@ -68,3 +68,34 @@ This week I started integrating the front end and back end code. This is a big s
 - [ ] Attend Monday's meeting and decide next steps for the project. I will likely do a lot of refactoring of code in main.dart due to changes in the back end. I will also keep building new features into the UI.
 
 ---
+
+## Entry: 11/16/2025 - 11/21/2025
+
+### Time Spent
+- **Total:** 6 hours and 15 minutes
+
+### Tasks Attempted
+1. Continue Habit class and UI integration
+2. Move many UI methods from main.dart to main_helpers.dart
+3. Attend team meeting
+
+### Problems Encountered
+- **Problem 1:** Continue implementing the rest of the fields from Habit such as start and end dates and isRecurring within the UI required adding new fields within the add Habit dialog.
+  - *Attempted solution:* Determine how I wanted to set the fields up and add them as calendars, drop down menus, or switches
+  - *Outcome:* Resolved
+- **Problem 2:** Moving methods from main.dart to main_helpers.dart required determining which methods could be moved and deciding how to separate them.
+  - *Attempted solution:* Read them and ask Copilot for help moving them and making changes while retaining the same functionality.
+  - *Outcome:* Resolved
+
+### Tasks Completed
+- [x] Add the rest of the Habit fields to Habit creation from the UI
+- [x] Moving methods from main.dart to main_helpers.dart
+- [x] Attended team meeting and shared progress and learned where others are at
+
+### Notes & Reflections
+This week I made some major refactoring changes to main.dart. This makes it much more readable. Getting the methods from main.dart into another file makes main much more clear and easy to understand. Having the other fields from Habit populated manually on instance creation allows for more functionality to be built in.
+
+### Next Steps
+- [ ] Attend Monday's meeting and decide next steps for the project. I will likely work on making habits only show in the UI when it is on or after their start date and on or before their end date. I will also reintegrate notifications with main once it is merged.
+
+---
