@@ -122,7 +122,7 @@ This week I made some major refactoring changes to main.dart. This makes it much
 
 ### Tasks Completed
 - [x] Add search bar
-- [] Implement searching
+- [ ] Implement searching
 - [x] Create a temporary search method
 - [x] Attended team meeting and shared progress and learned where others are at
 
