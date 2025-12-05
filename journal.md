@@ -113,18 +113,18 @@ This week I made some major refactoring changes to main.dart. This makes it much
 5. Attend team meeting
 
 ### Problems Encountered
-- **Problem 1:** I found that the search.dart method wasn't workign as I expected it to
-  - *Attempted solution:* I debugged it with Copilot and communicated what I found with the person who wrote the code. I then implemented a temporary fix in main.dart
+- **Problem 1:** I found that the search.dart method wasn't working as I expected it to
+  - *Attempted solution:* I debugged it with Copilot and communicated what I found with the person who wrote the code. I then implemented a temporary fix in main.dart until search.dart is modified.
   - *Outcome:* In Progress
 - **Problem 2:** The code for setting times when a habit should be completed hasn't been merged yet
-  - *Attempted solution:* Add a field for completion dates to the create habit dialog that will need to be hooked up later when the code is merged.
+  - *Attempted solution:* Add a field for completion dates to the create habit dialog that will need to be hooked up later when the backend code is merged.
   - *Outcome:* In Progress
 
 ### Tasks Completed
 - [x] Add search bar
 - [ ] Implement searching
 - [x] Create a temporary search method
-- [x] Attended team meeting and shared progress and learned where others are at
+- [x] Attended team meeting and shared progress and learned where others are at as well as discussed future steps.
 
 ### Notes & Reflections
 This week I made good progress on implementing some new features. These features need some code changes on the backend that I am waiting to be fully implemented. When they are implemented I will finish implementing them within the UI portion of the app.
