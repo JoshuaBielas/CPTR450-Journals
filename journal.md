@@ -127,7 +127,7 @@ This week I made some major refactoring changes to main.dart. This makes it much
 - [x] Attended team meeting and shared progress and learned where others are at as well as discussed future steps.
 
 ### Notes & Reflections
-This week I made good progress on implementing some new features. These features need some code changes on the backend that I am waiting to be fully implemented. When they are implemented I will finish implementing them within the UI portion of the app.
+This week I made good progress on implementing some new features. These features need some code changes on the backend that I am waiting to be fully implemented. When they are available I will finish implementing them within the UI portion of the app.
 
 ### Next Steps
 - [ ] Attend Monday's meeting and decide next steps for the project. I will switch searching to using the searchHabits method from search.dart. I will also change the create habit dialog to work with completion times once it is implemented in the backend.
